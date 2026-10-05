@@ -12,9 +12,44 @@
 			<copyright>© Macchia</copyright>
 		
 		
-			<lastBuildDate>Sun, 19 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://macchia.codeberg.page/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ansia</title>
+				<link>https://macchia.codeberg.page/tags/ansia/</link>
+				<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://macchia.codeberg.page/tags/ansia/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lavoro</title>
+				<link>https://macchia.codeberg.page/tags/lavoro/</link>
+				<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://macchia.codeberg.page/tags/lavoro/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Salute</title>
+				<link>https://macchia.codeberg.page/tags/salute/</link>
+				<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://macchia.codeberg.page/tags/salute/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Scienza</title>
+				<link>https://macchia.codeberg.page/tags/scienza/</link>
+				<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://macchia.codeberg.page/tags/scienza/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Capitalismo</title>
+				<link>https://macchia.codeberg.page/tags/capitalismo/</link>
+				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://macchia.codeberg.page/tags/capitalismo/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Cronaca</title>
 				<link>https://macchia.codeberg.page/tags/cronaca/</link>
@@ -114,20 +149,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Capitalismo</title>
-				<link>https://macchia.codeberg.page/tags/capitalismo/</link>
-				<pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://macchia.codeberg.page/tags/capitalismo/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Lavoro</title>
-				<link>https://macchia.codeberg.page/tags/lavoro/</link>
-				<pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://macchia.codeberg.page/tags/lavoro/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Stellantis</title>
 				<link>https://macchia.codeberg.page/tags/stellantis/</link>
 				<pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
@@ -188,13 +209,6 @@
 				<link>https://macchia.codeberg.page/tags/libri/</link>
 				<pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
 				<guid>https://macchia.codeberg.page/tags/libri/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Salute</title>
-				<link>https://macchia.codeberg.page/tags/salute/</link>
-				<pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-				<guid>https://macchia.codeberg.page/tags/salute/</guid>
 				<description></description>
 			</item>
 			<item>

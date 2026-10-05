@@ -12,9 +12,16 @@
 			<copyright>© Macchia</copyright>
 		
 		
-			<lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://macchia.codeberg.page/tags/capitalismo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Quiet firing</title>
+				<link>https://macchia.codeberg.page/posts/20260908---quiet-firing/</link>
+				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://macchia.codeberg.page/posts/20260908---quiet-firing/</guid>
+				<description>&lt;h2 id=&#34;domanda-onesta-a-deepseek&#34;&gt;Domanda onesta a DeepSeek:&lt;/h2&gt;&#xA;&lt;p&gt;Vorrei che tu immaginassi di essere il capo di un&amp;rsquo; azienda con tanti dipendenti e dovessi trovare un modo lecito per fare in modo che una buona parte dei lavoratori si licenzino. Non devono essere introdotte pratiche non ammesse&amp;hellip;ma cosa potrebbe fare un manager per fare cambiare azienda ai dipendenti? Cose ammesse ma fastidiose che portino le persone a licenziarsi&lt;/p&gt;&#xA;&lt;p&gt;Le prime due risposte di Deep Seek non vanno assolutamente bene, in pratica propone di mobbizzare i lavoratori, cosa che avevo esplicitamente escluso&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>La Repubblica</title>
 				<link>https://macchia.codeberg.page/posts/20260211---la-repubblica/</link>
